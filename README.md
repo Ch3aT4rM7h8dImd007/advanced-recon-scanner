@@ -1,4 +1,4 @@
-# 🔍 Advanced Recon Scanner – Proxychains4 Edition
+#  Advanced Recon Scanner – Proxychains4 Edition
 
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
